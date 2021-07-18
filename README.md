@@ -6,6 +6,7 @@
 🧩 puzzles
 ⌨️ competitive programming
 
+# Motivation
 
 <img src='https://pbs.twimg.com/media/DCIbETjXgAAu8VS?format=jpg&name=small'>
 
