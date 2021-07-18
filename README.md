@@ -7,6 +7,8 @@
 ⌨️ competitive programming
 
 
+<img src='https://pbs.twimg.com/media/DCIbETjXgAAu8VS?format=jpg&name=small'>
+
 <!--
 **helggii/helggii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
