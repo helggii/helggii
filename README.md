@@ -1,4 +1,11 @@
-### Hi there 👋
+### Currently in an abusive relationship with Next.JS and SASS
+## if you're into any of these, feel free to hit me up:
+- music 🎶
+- comedy 🎤
+- chess ♟
+- puzzles 🧩
+- competitive programming ⌨️
+
 
 <!--
 **helggii/helggii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
