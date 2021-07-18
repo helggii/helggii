@@ -1,26 +1,11 @@
 ### Currently in an abusive relationship with Next.JS and SASS
 #### if you're into any of these, feel free to hit me up: 
-🎶 music  
-🎤 comedy  
-♟️ chess  
-🧩 puzzles  
+🎶  music  
+🎤  comedy  
+♟   chess  
+🧩  puzzles  
 ⌨️ competitive programming  
 
 ## Here's some motivation  
 
 <img src='https://pbs.twimg.com/media/DCIbETjXgAAu8VS?format=jpg&name=small'>
-
-<!--
-**helggii/helggii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
